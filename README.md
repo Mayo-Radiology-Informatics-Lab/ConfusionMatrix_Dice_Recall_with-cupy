@@ -3,3 +3,8 @@ Scikitlearn 'confusion matrix' extraction is very slow for digital pathology ima
 
 Need cupy library; check for correct version compatible with your cudatoolkit. <b/>
 https://pypi.org/project/cupy/ 
+
+Use Metric_withcupy.py to calculate metric and save in new folder. <b/>
+
+
+Use Metric_dicecupy_average.py to take average of all files. <b?>
