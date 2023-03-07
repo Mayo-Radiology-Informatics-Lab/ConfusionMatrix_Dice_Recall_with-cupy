@@ -7,4 +7,4 @@ https://pypi.org/project/cupy/
 Use Metric_withcupy.py to calculate metric and save in new folder. <b/>
 
 
-Use Metric_dicecupy_average.py to take average of all files. <b?>
+Use Metric_dicecupy_average.py to take average of all files. <b/>
