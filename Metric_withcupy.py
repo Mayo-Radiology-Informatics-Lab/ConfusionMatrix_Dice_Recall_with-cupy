@@ -9,7 +9,6 @@ THIS CODE USES CUPY AND MATRIX MULTIPLICATION FOR CALCULATING DICE, CONFUSION MA
 import os
 import numpy as np
 from tqdm import *
-from sklearn import metrics
 from skimage import morphology
 os.environ["CUDA_VISIBLE_DEVICES"]='0'
 #Edit the following two...
